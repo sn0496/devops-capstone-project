@@ -4,6 +4,9 @@
 <a id="readme-top"></a>
 
 # Capstone Project - DevOps and Software Engineering
+Reflection of the build status:<br>
+
+![Build Status](https://github.com/christian-schw/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 ## Introduction
 This capstone project / repository was created as part of IBM's `DevOps and Software Engineering` program.<br>
